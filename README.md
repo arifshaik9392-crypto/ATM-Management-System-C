@@ -1,4 +1,3 @@
-# ATM-Management-System-C
 # ATM Management System in C
 
 ## 📌 About
