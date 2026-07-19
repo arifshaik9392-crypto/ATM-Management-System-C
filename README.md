@@ -1,4 +1,4 @@
-# ATM Management System in C
+A menu-driven ATM Management System developed in C using functions and basic programming concepts.
 
 ## 📌 About
 This is a menu-driven ATM Management System developed using the C programming language.
